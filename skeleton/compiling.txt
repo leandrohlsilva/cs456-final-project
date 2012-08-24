@@ -1,0 +1,1 @@
+gcc final.c offreader.c utils.c reader.c glsl_setup.c sgi_texture.c jmesh.c -lGL -lglut -lGLU -o exe

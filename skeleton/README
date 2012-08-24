@@ -1,0 +1,22 @@
+INSTRUCTIONS RUN MY CODE
+
+step 1: ./lab3
+See the cube in the middle
+
+Step 2: ./lab3 0 step2.vert step2.frag
+see the earth
+
+Step 3: ./lab3 0 step3.vert step3.frag
+See the objects
+
+Step 4: ./lab3 0
+See the cube in the right
+
+Step 5: ./lab3 0
+See the environment the elements are inside
+
+Extra1: ./lab3 0
+See the elements in the screen
+
+Extra2: ./lab3 2
+See the environment has changed
